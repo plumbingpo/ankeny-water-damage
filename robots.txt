@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ankenyrestoration.com/sitemap.xml
